@@ -1,0 +1,184 @@
+{
+  "product": {
+    "uid": "99873be9-5e0e-418e-acf7-b6f89acbc5b7",
+    "name": "Arc Single Tier Wall Hung Vanity",
+    "slug": "arc-single-tier-wall-hung-vanity",
+    "description": "Discover modern contemporary lines with the Arc Single Tier Vanity. The cabinetry is designed and assembled in NZ and features sleek negative finger pull detailing with soft-close drawers and doors. Create your vision today with the multitude of slab tops, basins, cabinetry colours, and extrusion colour combinations on offer.",
+    "images": [
+      "images/image-1.png",
+      "images/image-2.png",
+      "images/image-3.png",
+      "images/image-4.png"
+    ]
+  },
+  "optionTypes": [
+    {
+      "optionTypeId": 1,
+      "displayName": "Size",
+      "options": [
+        {
+          "uid": "28191688-3b03-46e5-81c7-573785e88551",
+          "skuCode": "4558L",
+          "displayName": "1500 Arc Single Tier Wall Hung Vanity (4 Drawer)",
+          "price": 420000
+        },
+        {
+          "uid": "8c4820ee-c7be-46f2-b14d-5cd41ec84c20",
+          "skuCode": "4522R",
+          "displayName": "1800 Arc Single Tier Wall Hung Vanity (4 Drawer)",
+          "price": 470000
+        },
+        {
+          "uid": "508bec3e-537f-4edd-b8c0-919d1bb697ad",
+          "skuCode": "4548",
+          "displayName": "900 Arc Single Tier Wall Hung Vanity (2 Drawer)",
+          "price": 250000
+        },
+        {
+          "uid": "aef3129e-557b-4fa5-9786-924d1d2cc1be",
+          "skuCode": "4546",
+          "displayName": "750 Arc Single Tier Wall Hung Vanity (2 Drawer)",
+          "price": 240000
+        }
+      ]
+    },
+    {
+      "optionTypeId": 6,
+      "displayName": "Colour",
+      "options": [
+        {
+          "uid": "6b1b99ef-aaab-4487-9342-0a701a234e58",
+          "skuCode": "TW",
+          "displayName": "Twilight",
+          "price": 0
+        },
+        {
+          "uid": "ac8a577d-e5ae-426b-8144-b342bfa0ee66",
+          "skuCode": "HG",
+          "displayName": "Hunter Green",
+          "price": 0
+        },
+        {
+          "uid": "ad539798-4d5a-49ce-bdba-5190dc16fd12",
+          "skuCode": "EU",
+          "displayName": "Eucalyptus",
+          "price": 0
+        },
+        {
+          "uid": "56932de6-8de3-4351-9c32-5b067feabc3f",
+          "skuCode": "IN",
+          "displayName": "Indigo",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "optionTypeId": 4,
+      "displayName": "Drawer Front",
+      "options": [
+        {
+          "uid": "da10627d-cbe1-44f0-a2b7-7511ec024f91",
+          "skuCode": "NP",
+          "displayName": "Newport",
+          "price": 0
+        },
+        {
+          "uid": "6dcc0d1a-2cb0-4b0e-bf69-74a42a39b570",
+          "skuCode": "AP",
+          "displayName": "Aspen",
+          "price": 0
+        },
+        {
+          "uid": "47d17298-bf1c-4ca6-a5b8-fff630af88f0",
+          "skuCode": "LN",
+          "displayName": "Lincoln",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "optionTypeId": 2,
+      "displayName": "Slabtop",
+      "options": [
+        {
+          "uid": "a4b5e0e6-1460-42f4-ad5b-54344fd9baeb",
+          "skuCode": "STMW",
+          "displayName": "Stonecast Slab Top (1200x460x20mm) - Matte White",
+          "price": 0
+        },
+        {
+          "uid": "f4a169bc-3b7b-4b67-9c58-4ae1f230343b",
+          "skuCode": "MIST",
+          "displayName": "Misty 1200x465 Acrylic Solid Surface Slab Top",
+          "price": 0
+        },
+        {
+          "uid": "f62c342a-db95-4d6a-b626-91c8860cb588",
+          "skuCode": "HY",
+          "displayName": "Himalaya 1500 Quartz Slab Top",
+          "price": 0
+        },
+        {
+          "uid": "b2c2e107-7676-4b8a-a997-b2a1d5ef09df",
+          "skuCode": "SC",
+          "displayName": "Stonecast 900 Slab Top (20mm) - Gloss White",
+          "price": 0
+        },
+        {
+          "uid": "ca1e8a37-df2a-44bc-ab78-7e734f5f1f92",
+          "skuCode": "SCMW",
+          "displayName": "Stonecast 900 Slab Top (20mm) - Matte White",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "optionTypeId": 3,
+      "displayName": "Handles",
+      "options": [
+        {
+          "uid": "c97660d9-8158-49cf-8b9c-679c0c5110b0",
+          "skuCode": "ROMA-MB",
+          "displayName": "Roma Matte Black 256mm",
+          "price": 0
+        },
+        {
+          "uid": "2416e2ef-9ec3-4997-b301-d72b2791187a",
+          "skuCode": "ARLO-BB",
+          "displayName": "Arlo Brushed Brass 350mm",
+          "price": 4261
+        },
+        {
+          "uid": "21a82227-49d3-4522-b193-7e4e968f4b9c",
+          "skuCode": "ROMA-GM",
+          "displayName": "Roma Gunmetal 256mm",
+          "price": 0
+        },
+        {
+          "uid": "8332bc4c-0af6-4a65-894c-f2747b666704",
+          "skuCode": "ROMA-MW",
+          "displayName": "Roma Matte White 256mm",
+          "price": 0
+        },
+        {
+          "uid": "21841371-3935-404d-81c8-8e577c2f81dc",
+          "skuCode": "ROMA-NK",
+          "displayName": "Roma Brushed Nickel 256mm",
+          "price": 0
+        },
+        {
+          "uid": "61ff4e1e-a1ba-4536-bcac-b2b321e188dc",
+          "skuCode": "INDI-CH",
+          "displayName": "Indi Chrome 160mm",
+          "price": 4261
+        },
+        {
+          "uid": "85ee7739-ebdf-4ee9-8203-e226bd6a5012",
+          "skuCode": "INDI-BB",
+          "displayName": "Indi Brushed Brass 160mm",
+          "price": 4261
+        }
+      ]
+    }
+  ]
+}
